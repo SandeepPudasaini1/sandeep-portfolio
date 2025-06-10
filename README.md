@@ -1,4 +1,4 @@
-Sandeep Pudasaini – Data Analyst Portfolio
+Sandeep Pudasaini – Data Analyst 
 
 Welcome to my professional portfolio! I’m a data analyst with dual master’s degrees in Data Science and Economics, and I specialize in turning complex data into actionable insights. My work spans public policy modeling, healthcare analytics, machine learning applications, and business process improvements. Below, you'll find a curated selection of my projects, skills, and background.
 
