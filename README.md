@@ -29,10 +29,11 @@ Policy & Market Feasibility Analysis
 
 🌐 Featured Projects
 
-✨ ZEV Mandate Feasibility Study (Research Assistant – SDSU)
+✨ ZEV Mandate Feasibility Study (Graduate Research Assistant – South Dakota State University)
 
 Tools: R, Python, Tableau
-Description: Evaluated the feasibility of California's 2035 Zero-Emission Vehicle (ZEV) mandate by analyzing EV adoption, population growth, infrastructure needs, and critical battery materials. Created data models to forecast charging station demand and assess supply chain risks.Impact: Informed state-level policy discussions and presented findings at the Missouri Valley Economic Association (MVEA).
+Description: Evaluated the feasibility of California's 2035 Zero-Emission Vehicle (ZEV) mandate for California and South Dakota by analyzing EV adoption, population growth, infrastructure needs, and critical battery materials. Created data models to forecast charging station demand and assess supply chain risks. 
+Impact: Informed state-level policy discussions and presented findings at the Missouri Valley Economic Association (MVEA).
 
 🧰 NHANES Health Data Analysis
 
@@ -65,8 +66,8 @@ M.S. in Data Science (GPA 4.0) – Aug 2025
 M.S. in Economics (GPA 4.0) – Aug 2025
 
 Pokhara University – Nepal
-
-BBA in Finance (GPA 3.75) – Sep 2019
+Apex College
+Bachelor of Business Administration specialization in Finance (GPA 3.75) – Sep 2019
 
 Highest GPA Award – Pokhara University
 
